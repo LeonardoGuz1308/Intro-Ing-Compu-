@@ -1,0 +1,26 @@
+119002582 
+
+
+Area de triangulo 
+#include <stdio.h>
+int main() 
+{
+float base, altura, resultado:
+printf ("Introduzca la base: ");
+ scanf_s ("%f", &base);
+printf ("Introduzca la altura:";
+ scanf_s ("%f", &altura);
+ resultado = (base * altura) / 2;
+printf ("El area del triangulo es: %f", resultado):
+return 0:
+}
+Area de circulo
+{
+#include <stdio.h>
+int main()
+float radio, resultado;
+printf ("Introduzca el radio");
+ scanf_s ("%f", radio);
+ resultado = (radio * radio) * 3.1416;
+return 0;
+}
